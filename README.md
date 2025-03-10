@@ -2,8 +2,7 @@
 
 - 🌱 I’m currently learning java
 - 📫 How to reach me: makarovalexeynz@gmail.com, @Makarov_Al_V : telegram
--  
-
+  
 
 ### Skills:
 - Java: Java Core (multithreading, collections, working with exceptions), Streams API, Lambda expressions
