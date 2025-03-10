@@ -1,6 +1,5 @@
 ## Hi there, I'm Aleksei 👋
 
-- 🌱 I’m currently learning java
 - 📫 How to reach me: makarovalexeynz@gmail.com, @Makarov_Al_V : telegram
   
 
